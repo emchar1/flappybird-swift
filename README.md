@@ -2,6 +2,8 @@
 
 ### 09/28/2016 Updated to Xcode 8.0 and Swift 3.0!
 
+Added a comment to learn how forking works 8/24/20.
+
 Learn to make 2D Games for Apple Devices by building a clone of the infamous Flappy Bird with Swift 3.0.
 
 Together we’ll build a complete game step by step using SpriteKit and Swift.
